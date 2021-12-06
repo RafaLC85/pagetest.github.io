@@ -24,7 +24,7 @@
     "eject": "react-scripts eject",
     "api": "json-server --watch db.json --port 4000",
     "predeploy": "yarn build",
-    "deploy": "yarn build && ./node_modules/.bin/gh-pages -d build"
+    "deploy": "yarn build && ./node_modules/.bin/gh-pages -d build && json-server --watch db.json --port 4000"
   },
   "eslintConfig": {
     "extends": [
