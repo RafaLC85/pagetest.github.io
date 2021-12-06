@@ -33,9 +33,9 @@ function BtnHeart(props) {
     };
     let btnBuy;
     if (isClicked) {
-        btnBuy = <button className="btn btnwish" onClick={handleClick}></button>;
-    } else {
         btnBuy = <button className="btn btnActive" onClick={handleClick}></button>;
+    } else {
+        btnBuy = <button className="btn btnwish" onClick={handleClick}></button>;
     }
     return <>{btnBuy}</>;
 }
