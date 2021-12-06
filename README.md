@@ -1,7 +1,7 @@
 Instalar as dependencias:
 yarn install ou npm i;
 
-Executar o projeto:
+Executar o projeto localmente:
 Em um terminal rode:
 yarn api ou npm run api para subir o "endpoint" de produtos.
 
@@ -15,3 +15,5 @@ axios                       yarn add ou npm i axios
 
 json-server                 yarn add ou npm install -g json-server
 react-icons                 yarn add ou npm install react-icons --save
+
+Página na nuvem: https://rafalc85.github.io/pagetest.github.io/
