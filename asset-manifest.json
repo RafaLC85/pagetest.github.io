@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec47f24e.chunk.css",
-    "main.js": "/static/js/main.494dfdb9.chunk.js",
-    "main.js.map": "/static/js/main.494dfdb9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7283dedc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7283dedc.js.map",
-    "static/js/2.a040b44e.chunk.js": "/static/js/2.a040b44e.chunk.js",
-    "static/js/2.a040b44e.chunk.js.map": "/static/js/2.a040b44e.chunk.js.map",
-    "static/js/3.5ea34810.chunk.js": "/static/js/3.5ea34810.chunk.js",
-    "static/js/3.5ea34810.chunk.js.map": "/static/js/3.5ea34810.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ec47f24e.chunk.css.map": "/static/css/main.ec47f24e.chunk.css.map",
-    "static/js/2.a040b44e.chunk.js.LICENSE.txt": "/static/js/2.a040b44e.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/static/media/wish-hover-default.25a04d79.svg"
+    "main.css": "/pagetest.github.io/static/css/main.0e4e1d99.chunk.css",
+    "main.js": "/pagetest.github.io/static/js/main.ecf5cd9c.chunk.js",
+    "main.js.map": "/pagetest.github.io/static/js/main.ecf5cd9c.chunk.js.map",
+    "runtime-main.js": "/pagetest.github.io/static/js/runtime-main.39f8efd9.js",
+    "runtime-main.js.map": "/pagetest.github.io/static/js/runtime-main.39f8efd9.js.map",
+    "static/js/2.a040b44e.chunk.js": "/pagetest.github.io/static/js/2.a040b44e.chunk.js",
+    "static/js/2.a040b44e.chunk.js.map": "/pagetest.github.io/static/js/2.a040b44e.chunk.js.map",
+    "static/js/3.5ea34810.chunk.js": "/pagetest.github.io/static/js/3.5ea34810.chunk.js",
+    "static/js/3.5ea34810.chunk.js.map": "/pagetest.github.io/static/js/3.5ea34810.chunk.js.map",
+    "index.html": "/pagetest.github.io/index.html",
+    "static/css/main.0e4e1d99.chunk.css.map": "/pagetest.github.io/static/css/main.0e4e1d99.chunk.css.map",
+    "static/js/2.a040b44e.chunk.js.LICENSE.txt": "/pagetest.github.io/static/js/2.a040b44e.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/pagetest.github.io/static/media/wish-hover-default.25a04d79.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7283dedc.js",
+    "static/js/runtime-main.39f8efd9.js",
     "static/js/2.a040b44e.chunk.js",
-    "static/css/main.ec47f24e.chunk.css",
-    "static/js/main.494dfdb9.chunk.js"
+    "static/css/main.0e4e1d99.chunk.css",
+    "static/js/main.ecf5cd9c.chunk.js"
   ]
 }
